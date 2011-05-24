@@ -50,7 +50,7 @@ setup(
 #            ]
 #        },
 
-    long_description=open(os.path.join(os.path.dirname(__file__), 'README.txt')).read(),
+    long_description=open(os.path.join(os.path.dirname(__file__), 'README.rst')).read(),
     classifiers =[
         'License :: OSI Approved :: Apache Software License',
         'Development Status :: 4 - Beta',
